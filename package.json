@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "djs-antiraid@1.0.1",
+      "/home/container"
+    ]
+  ],
+  "_from": "djs-antiraid@1.0.1",
+  "_id": "djs-antiraid@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-5rIOj3mHxyGDgj2ZTUVA6mZesXnimkSZnt2stKvNqLTcI7US4HDITs5eK03hNWp7XPDEUmE9R/CoshX4nHlqUQ==",
+  "_location": "/djs-antiraid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "djs-antiraid@1.0.1",
+    "name": "djs-antiraid",
+    "escapedName": "djs-antiraid",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/djs-antiraid/-/djs-antiraid-1.0.1.tgz",
+  "_spec": "1.0.1",
+  "_where": "/home/container",
+  "author": {
+    "name": "https://github.com/TheMaestro0"
+  },
+  "bugs": {
+    "url": "https://github.com/SetItOnZygote/djs-antiraid/issues"
+  },
+  "description": "[![downloadsBadge](https://img.shields.io/npm/dt/djs-antiraid?style=for-the-badge)](https://npmjs.com/djs-antiraid)\r [![versionBadge](https://img.shields.io/npm/v/djs-antiraid?style=for-the-badge)](https://npmjs.com/djs-antiraid)\r [![discord](https://discord.com/api/guilds/645066074148306969/widget.png)](https://discord.gg/bGtutc9GnB)\r # djs-antiraid\r it's a package to protect your discord server from any kind of \"raid attacks\"",
+  "homepage": "https://github.com/SetItOnZygote/djs-antiraid#readme",
+  "keywords": [
+    "discord",
+    "antiraid",
+    "anti-raid",
+    "anti-invites",
+    "raid",
+    "protect",
+    "raidprotect",
+    "raid-protect",
+    "bot",
+    "package",
+    "npm",
+    "link",
+    "anti-link",
+    "antilink",
+    "blacklist"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "djs-antiraid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetItOnZygote/djs-antiraid.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
